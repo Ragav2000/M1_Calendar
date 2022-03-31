@@ -1,3 +1,5 @@
+***C PROGRAM***
+
 _Calender app provides 4 option to users is as follows.._
 
    *1. Find the day*
